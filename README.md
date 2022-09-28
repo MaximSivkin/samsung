@@ -1,2 +1,2 @@
 # samsung
- abobus
+abobus
